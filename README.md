@@ -1,1 +1,2 @@
-Testando a configuração do GIT
+﻿Testando a configuração do GIT
+Testando alterações
